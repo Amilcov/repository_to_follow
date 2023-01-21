@@ -1,0 +1,7 @@
+
+1. cursul AWS - Cloud Practitioner:
+https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/19891628?src=sac&kw=aws#overview
+
+2. Ex de AWS Exam Questions:
+https://github.com/simplesteph/AWS-FAQ/blob/master/FAQ.md
+
